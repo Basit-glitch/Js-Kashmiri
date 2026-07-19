@@ -120,6 +120,166 @@ console.log(`My health condition is ${BMI(65, 65)}`)
 
 // <<<<<<<<<<<<    Conditional Function    >>>>>>>>>>>>>>>>>
 
+/*
+// Check number is even or odd
+let num1 = 8
+if(num1%2==0){
+    console.log("number is even.")
+}
+else{
+    console.log("number is odd")
+}
+
+
+
+
+
+
+
+// Check negative number
+let num2 = -8
+if(num2 <= 0){
+    console.log("number is negative")
+}
+else{
+    console.log("number is positive")
+}
+
+
+
+
+
+
+
+// Largest number of 2
+let a=12
+let b=15
+if(a > b){
+    console.log("a is the largest number.")
+}
+else{
+    console.log("b is the largest number")
+}
+
+
+
+
+
+
+// Largest number of three
+let c = 10
+let d = 12
+let e = 14
+if(c>d && c>e){
+    console.log("c is the greater value.")
+}
+else if(d>c && d>e){
+    console.log("d is the greater value.")
+}
+else{
+    console.log("e is the greater value.")
+}
+
+
+
+
+
+
+
+// Voting Age
+let age = 17
+if(age >= 18){
+    console.log("age is for voting.")
+}
+else{
+    console.log("age is for not voting")
+}
+
+
+
+
+
+// ||
+
+// Driving Age
+let agedriving = 70 
+if(agedriving <=18 || agedriving >=60){
+    console.log("the person is not eligible for driving")
+}
+else{
+    console.log("the person is eligible for driving")
+}
+
+
+
+
+
+// Pass Fail
+let marks = 90
+if(marks >= 50){
+    console.log("The student is pass")
+}
+else{
+    console.log(" the student is fail")
+}
+
+
+
+
+// Garede
+let mark = 90
+if(mark >= 90){
+    console.log ("Grade is A+")
+}
+else if(mark >= 85){
+    console.log("Grade is A")
+}
+else if(mark >= 80){
+    console.log("Grade is B")
+}
+else if(mark >= 70){
+    console.log("Grade is C")
+}
+else if(mark >= 60){
+    console.log("Grade is D")
+}
+else if(mark >= 50){
+    console.log("Grade is E")
+}
+else{
+    console.log("fail")
+}
+
+
+
+
+
+
+// Check leap year
+let year = 2026
+if (year % 4 == 0){
+    console.log("This is leap year.")
+}
+else{
+    console.log("This is not leap year.")
+}
+
+
+
+
+
+
+// Check Password length
+let password = "basit12"
+if(password.length==8){
+    console.log("Password length is 8")
+}
+else{
+    console.log("Password length is not 8")
+}
+
+*/
+
 
 
 
